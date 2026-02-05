@@ -1,0 +1,27 @@
+[
+  {
+    "image_name": "x.png",
+    "time": "20260205_150312",
+    "weight_name": null,
+    "weight_path": null,
+    "username": "u",
+    "dir": "E:\\microscopic_segmentation_and_determination_tasks\\runs\\分割结果_20260205_150312",
+    "particle_ratio": 0.10000000149011612,
+    "particle_area": 1,
+    "track_area": 2,
+    "particle_count": 3
+  },
+  {
+    "image_name": "4.tif",
+    "time": "20260205_152521",
+    "weight_name": "epoch020-loss0.082.pth",
+    "weight_path": "E:/microscopic_segmentation_and_determination_tasks/runs/unet_vgg16/epoch020-loss0.082.pth",
+    "username": "user",
+    "dir": "e:\\microscopic_segmentation_and_determination_tasks\\runs\\分割结果_20260205_152521",
+    "image_area": 196608,
+    "particle_area": 7925,
+    "track_area": 65390,
+    "particle_ratio": 0.040308634440104164,
+    "particle_count": 57
+  }
+]
